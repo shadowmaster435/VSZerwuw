@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DADDY_DEAREST.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+
+	<SubTexture name="Zerwuw Idle Dance0000" x="3072" y="0" width="768" height="768" frameX="0" frameY="-96" frameWidth="800" frameHeight="1024"/>
+	<SubTexture name="Zerwuw Idle Dance0001" x="3840" y="0" width="768" height="768" frameX="0" frameY="-96" frameWidth="800" frameHeight="1024"/>
+	<SubTexture name="Zerwuw Idle Dance0002" x="4608" y="0" width="768" height="768" frameX="0" frameY="-96" frameWidth="800" frameHeight="1024"/>
+	<SubTexture name="Zerwuw Idle Dance0003" x="5376" y="0" width="768" height="768" frameX="0" frameY="-96" frameWidth="800" frameHeight="1024"/>
+	<SubTexture name="Zerwuw Idle Dance0004" x="6144" y="0" width="768" height="768" frameX="0" frameY="-96" frameWidth="800" frameHeight="1024"/>
+	<SubTexture name="Zerwuw Idle Dance0005" x="6912" y="0" width="768" height="768" frameX="0" frameY="-96" frameWidth="800" frameHeight="1024"/>
+	<SubTexture name="Zerwuw Idle Dance0006" x="7680" y="0" width="768" height="768" frameX="0" frameY="-96" frameWidth="800" frameHeight="1024"/>
+	<SubTexture name="Zerwuw Idle Dance0007" x="8448" y="0" width="768" height="768" frameX="0" frameY="-96" frameWidth="800" frameHeight="1024"/>
+	<SubTexture name="Zerwuw Idle Dance0008" x="9216" y="0" width="768" height="768" frameX="0" frameY="-96" frameWidth="800" frameHeight="1024"/>
+	<SubTexture name="Zerwuw Idle Dance0009" x="9984" y="0" width="768" height="768" frameX="0" frameY="-96" frameWidth="800" frameHeight="1024"/>
+	<SubTexture name="Zerwuw Idle Dance0010" x="10752" y="0" width="768" height="768" frameX="0" frameY="-96" frameWidth="800" frameHeight="1024"/>
+	<SubTexture name="Zerwuw Idle Dance0011" x="11520" y="0" width="768" height="768" frameX="0" frameY="-96" frameWidth="800" frameHeight="1024"/>
+	<SubTexture name="Zerwuw Idle Dance0012" x="0" y="768" width="768" height="768" frameX="0" frameY="-96" frameWidth="800" frameHeight="1024"/>
+	<SubTexture name="Zerwuw Idle Dance0013" x="760" y="768" width="768" height="768" frameX="8" frameY="-96" frameWidth="800" frameHeight="1024"/>
+	<SubTexture name="Zerwuw Idle Dance0014" x="1536" y="768" width="768" height="768" frameX="0" frameY="-96" frameWidth="800" frameHeight="1024"/>
+	<SubTexture name="Zerwuw Idle Dance0015" x="2304" y="768" width="768" height="768" frameX="0" frameY="-96" frameWidth="800" frameHeight="1024"/>
+	<SubTexture name="Zerwuw Idle Dance0016" x="3072" y="768" width="768" height="768" frameX="0" frameY="-96" frameWidth="800" frameHeight="1024"/>
+	<SubTexture name="Zerwuw Idle Dance0017" x="3840" y="768" width="768" height="768" frameX="0" frameY="-96" frameWidth="800" frameHeight="1024"/>
+	<SubTexture name="Zerwuw Idle Dance0018" x="4608" y="768" width="768" height="768" frameX="0" frameY="-96" frameWidth="800" frameHeight="1024"/>
+	<SubTexture name="Zerwuw Idle Dance0019" x="5376" y="768" width="768" height="768" frameX="0" frameY="-96" frameWidth="800" frameHeight="1024"/>
+	<SubTexture name="Zerwuw Idle Dance0020" x="6144" y="768" width="768" height="768" frameX="0" frameY="-96" frameWidth="800" frameHeight="1024"/>
+	<SubTexture name="Zerwuw Idle Dance0021" x="7680" y="768" width="768" height="768" frameX="0" frameY="-96" frameWidth="800" frameHeight="1024"/>
+	<SubTexture name="Zerwuw Idle Dance0022" x="8448" y="768" width="768" height="768" frameX="0" frameY="-96" frameWidth="800" frameHeight="1024"/>
+
+</TextureAtlas>
